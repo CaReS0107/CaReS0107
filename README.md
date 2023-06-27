@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cares0107" alt="cares0107" /></a> </p>
 
-- 🌱 I’m currently learning **Devops and Kubernetes**
+- 🌱 I’m currently learning **Doker and Kubernetes**
 
 - 📫 How to reach me **vasea199512@gmail.com**
 
