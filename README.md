@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vasea199512@gmail.com**
 
-- 📄 Know about my experiences [3+ Year as BackEnd Developer (PHP)](3+ Year as BackEnd Developer (PHP))
+- 📄 Know about my experiences [3+ Year as BackEnd Developer (PHP)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
