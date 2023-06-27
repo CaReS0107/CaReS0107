@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cares0107" alt="cares0107" /></a> </p>
 
-- 🌱 I’m currently learning **Devops and Kubernetis**
+- 🌱 I’m currently learning **Devops and Kubernetes**
 
 - 📫 How to reach me **vasea199512@gmail.com**
 
-- 📄 Know about my experiences [3+ Year as BackEnd Developer (PHP)]
+- 📄 Know about my experiences [3+ Years as BackEnd Developer (PHP)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
