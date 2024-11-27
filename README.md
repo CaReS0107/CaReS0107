@@ -57,6 +57,9 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=stripe" alt="stripe" width="40" height="40"/>
+  </a>
 </p>
 
 
