@@ -10,9 +10,9 @@
 - 📫 How to reach me **https://pinkary.com/@CaReS0107**
 
 - 📄 Know about my experiences 
-[
- 4+  => Years as BackEnd Developer (PHP),
- 1+  => Years as FrontEnd Developer (Vue & InertiaJs)
+[<br>
+ 4+  => Years as BackEnd Developer (PHP),<br>
+ 1+  => Years as FrontEnd Developer (Vue & InertiaJs)<br>
 ]
 
 <h3 align="left">Connect with me:</h3>
