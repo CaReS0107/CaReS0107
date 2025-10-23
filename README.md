@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: 
 [<br>
-  &nbsp;&nbsp;&nbsp; 4+  => Years as BackEnd Developer (PHP),<br>
+  &nbsp;&nbsp;&nbsp; 5+  => Years as BackEnd Developer (PHP/Laravel),<br>
   &nbsp;&nbsp;&nbsp; 1+  => Years as FrontEnd Developer (Vue & Inertia.js)<br>
 ];
 
