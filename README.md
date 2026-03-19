@@ -11,8 +11,8 @@
 
 - 📄 Know about my experiences: 
 [<br>
-  &nbsp;&nbsp;&nbsp; 5+  => Years as BackEnd Developer (PHP/Laravel),<br>
-  &nbsp;&nbsp;&nbsp; 1+  => Years as FrontEnd Developer (Vue & Inertia.js)<br>
+  &nbsp;&nbsp;&nbsp; 6+  => Years as BackEnd Developer (PHP/Laravel),<br>
+  &nbsp;&nbsp;&nbsp; 2+  => Years as FrontEnd Developer (Vue & Inertia.js)<br>
 ];
 
 <h3 align="left">Connect with me:</h3>
