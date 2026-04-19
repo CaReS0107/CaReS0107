@@ -31,23 +31,9 @@ class VasilePapuc extends BackendEngineer
 
 ## 🛠 Languages & Tools
 
-<p align="left">
-  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" /></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" /></a>
-  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" /></a>
-  <a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a>
-  <a href="https://stripe.com/"><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="40" alt="Stripe" /></a>
-  <a href="https://zapier.com/"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="40" alt="Zapier" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,mysql,redis,sqlite,docker,kubernetes,aws,linux,git,bash,postman&perline=16)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="25" /> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" height="25" />
 
 ---
 
